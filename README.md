@@ -1,4 +1,4 @@
-# SQL-Mini-Project-
+# Syntax Terminators SQL Mini Project
 This repository contains an analysis of pre-requisite data necessary to make a US election possible. The dataset provides names of the US states and respective population and number of grand electors. The analysis will enable us to acquire insights on the best campaign strategy that a presidential candidate can utilize to win elections at the least cost possible. Various data analysis techniques will be used to verify data quality, conduct analysis and later draw recommendations based on the study findings.
 # Project Description
 Since time in memorial, the US elections which occur after every four years have been one of the most competitive and expensive ballots any candidate can partake in. Even though independent candidates are allowed by the constitution to vie, there are only two major political parties from which competition is felt: the Democrats and the Republicans. There is an Electoral college which compiles votes from States, conducts election by grand electors and later confirms the winning candidate. 
